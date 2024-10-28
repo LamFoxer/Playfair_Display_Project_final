@@ -1,0 +1,224 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+h1{
+    font-size: 40px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Semibold";
+}
+h2{
+    font-size: 22px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Regular";
+}
+/* h3{
+    font-size: 20px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Regular";
+} */
+.medium{
+    font-family: "PlayfairDisplay-Medium";
+}
+.semi{
+    font-family: "PlayfairDisplay-Semibold";
+}
+.bold{
+    font-family: "PlayfairDisplay-Bold";
+}
+.extra{
+    font-family: "PlayfairDisplay-Extrabold";
+}
+.black{
+    font-family: "PlayfairDisplay-Black";
+}
+
+/* ITALIC */
+.italic{
+    font-family: "PlayfairDisplay-Italic";
+}
+.mediumItalic{
+    font-family: "PlayfairDisplay-MediumItalic";
+}
+.semiItalic{
+    font-family: "PlayfairDisplay-SemiboldItalic";
+}
+.boldItalic{
+    font-family: "PlayfairDisplay-BoldItalic";
+}
+.extraItalic{
+    font-family: "PlayfairDisplay-ExtraboldItalic";
+}
+.blackItalic{
+    font-family: "PlayfairDisplay-BlackItalic" !important;;
+}
+
+/* первый экран */
+.screen1{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin: 0 auto;
+    background-image: url("../img/planet1.png");
+}
+.s1t1{
+    width: 200px;
+    margin-top: -53.8%;
+    margin-left: 50.7%;
+}
+.s1t2{
+    width: 250px;
+    margin-top: 17.6%;
+    margin-left: 69.7%;
+}
+
+/* второй экран */
+.screen2{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin: 0 auto;
+    background-image: url("../img/s2_stars.png");
+}
+.planet2{
+    width: 586px;
+    margin-top: -45%;
+    margin-left: 13%;
+}
+.s2t1{
+    width: 500px;
+    margin-top: -27%;
+    margin-left: 60%;
+}
+.s2t2{
+    width: 400px;
+    margin-top: 0.5%;
+    margin-left: 63.9%;
+}
+.line{
+    width: 654px;
+    margin-top: -1%;
+    margin-left: 53.5%;
+}
+
+/* третий экран */
+.screen3{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-top: -19%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s3_stars.png");
+}
+.s3_picture1{
+    width: 611px;
+    margin-top: -41.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circle{
+    width: 20px; 
+    height: 20px;
+    border-color: #D5B678;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 50%;
+}
+/* левая коллонка */
+.s3t1left{
+    height: 22px;
+    margin-top: -32%;
+    margin-left: 20%;
+    display: flex;
+    gap: 1%;
+}
+.s3t2left{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 20%;
+    display: flex;
+    gap: 1%;
+}
+.s3t3left{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 17%;
+    display: flex;
+    gap: 1%;
+}
+.s3t4left{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 17%;
+    display: flex;
+    gap: 1%;
+}
+.s3t5left{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 20%;
+    display: flex;
+    gap: 1%;
+}
+.s3t6left{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 20%;
+    display: flex;
+    gap: 1%;
+}
+/* правая коллонка */
+.s3t6right{
+    height: 22px;
+    margin-top: -20.5%;
+    margin-left: 72%;
+    display: flex;
+    gap: 3.5%;
+}
+.s3t5right{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 72%;
+    display: flex;
+    gap: 3.5%;
+}
+.s3t4right{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 75%;
+    display: flex;
+    gap: 3.5%;
+}
+.s3t3right{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 75%;
+    display: flex;
+    gap: 3.5%;
+}
+.s3t2right{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 72%;
+    display: flex;
+    gap: 3.5%;
+}
+.s3t1right{
+    height: 22px;
+    margin-top: 2.5%;
+    margin-left: 72%;
+    display: flex;
+    gap: 3.5%;
+}
+
+/* третий экран */
+.screen4{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-top: 18%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s4_stars.png");
+}
