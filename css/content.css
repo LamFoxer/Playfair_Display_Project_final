@@ -12,11 +12,7 @@ h2{
     color: #D5B678;
     font-family: "PlayfairDisplay-Regular";
 }
-/* h3{
-    font-size: 20px;
-    color: #D5B678;
-    font-family: "PlayfairDisplay-Regular";
-} */
+
 .medium{
     font-family: "PlayfairDisplay-Medium";
 }
@@ -229,6 +225,11 @@ h2{
     height: 766px;
     margin: auto;
 }
+h3{
+    font-size: 40px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Regular";
+}
 
 .a1{
     position: relative;
@@ -240,25 +241,55 @@ h2{
     margin-top: 10.5%;
     margin-left: 6%;
 }
+.a2:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+    font-family: "PlayfairDisplay-Medium";
+}
 .a3{
     position: relative;
     margin-top: 10.5%;
     margin-left: 6%;
+}
+.a3:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+    font-family: "PlayfairDisplay-Semibold";
 }
 .a4{
     position: relative;
     margin-top: 10.5%;
     margin-left: 6%;
 }
+.a4:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+    font-family: "PlayfairDisplay-Bold";
+}
 .a5{
     position: relative;
     margin-top: 10.5%;
     margin-left: 6%;
 }
+.a5:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+    font-family: "PlayfairDisplay-Extrabold";
+}
 .a6{
     position: relative;
     margin-top: 10.5%;
     margin-left: 6%;
+}
+.a6:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+    font-family: "PlayfairDisplay-Black";
 }
 
 .n1{
