@@ -171,49 +171,222 @@ h2{
 /* правая коллонка */
 .s3t6right{
     height: 22px;
-    margin-top: -20.5%;
-    margin-left: 72%;
+    margin-top: -20%;
+    margin-left: 70%;
     display: flex;
     gap: 3.5%;
 }
 .s3t5right{
     height: 22px;
     margin-top: 2.5%;
-    margin-left: 72%;
+    margin-left: 70%;
     display: flex;
     gap: 3.5%;
 }
 .s3t4right{
     height: 22px;
     margin-top: 2.5%;
-    margin-left: 75%;
+    margin-left: 73%;
     display: flex;
     gap: 3.5%;
 }
 .s3t3right{
     height: 22px;
     margin-top: 2.5%;
-    margin-left: 75%;
+    margin-left: 73%;
     display: flex;
     gap: 3.5%;
 }
 .s3t2right{
     height: 22px;
     margin-top: 2.5%;
-    margin-left: 72%;
+    margin-left: 70%;
     display: flex;
     gap: 3.5%;
 }
 .s3t1right{
     height: 22px;
     margin-top: 2.5%;
-    margin-left: 72%;
+    margin-left: 70%;
     display: flex;
     gap: 3.5%;
 }
 
-/* третий экран */
+/* четвёртый экран */
 .screen4{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-top: 18%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s4_stars.png");
+}
+
+.s4_table{
+    position: relative;
+    width: 795.79px;
+    height: 766px;
+    margin: auto;
+}
+
+.a1{
+    position: relative;
+    margin-top: -90%;
+    margin-left: 6%;
+}
+.a2{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+}
+.a3{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+}
+.a4{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+}
+.a5{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+}
+.a6{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 6%;
+}
+
+.n1{
+    position: relative;
+    margin-top: -82.5%;
+    margin-left: 22.3%;
+}
+.n2{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+}
+.n3{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+}
+.n4{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+}
+.n5{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+}
+.n6{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+}
+
+.t1{
+    position: relative;
+    margin-top: -82.5%;
+    margin-left: 70.6%;
+}
+.t2{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+}
+.t3{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+}
+.t4{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+}
+.t5{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+}
+.t6{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+}
+
+.e1{
+    position: relative;
+    margin-top: -82.5%;
+    margin-left: 87%;
+}
+.e2{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+}
+.e3{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+}
+.e4{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+}
+.e5{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+}
+.e6{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+}
+
+.aa1{
+    position: relative; 
+    margin-top: -1.5%;
+    margin-left: 49%;
+    transform: rotate(15deg);
+}
+.aa12{
+    position: relative; 
+    margin-top: -18%;
+    margin-left: 43%;
+    transform: rotate(-10deg);
+}
+.te1{
+    position: relative; 
+    margin-top: 57%;
+    margin-left: 36%;
+    transform: rotate(-7deg);
+}
+.te2{
+    position: relative; 
+    margin-top: -12.5%;
+    margin-left: 36%;
+    transform: rotate(-7deg);
+}
+.te3{
+    position: relative; 
+    margin-top: -14.5%;
+    margin-left: 36%;
+    transform: rotate(-7deg);
+}
+
+/* пятый экран */
+.screen5{
     position: relative;
     width: 1440px;
     height: 900px;
