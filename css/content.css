@@ -421,8 +421,100 @@ h3{
     position: relative;
     width: 1440px;
     height: 900px;
-    margin-top: 18%;
     margin-left: auto;
     margin-right: auto;
-    background-image: url("../img/s4_stars.png");
+    background-image: url("../img/s5_stars.svg");
+}
+.s5_word{
+    margin-left: 22%;
+}
+.s5_worddown{
+    margin-top: 1%;
+}
+.s5_letters{
+    margin-left: 17%;
+    margin-top: -7%;
+}
+.s5_leftletter{
+    margin-left: 7%;
+}
+
+/* шестой экран */
+.screen6{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s6_stars.svg");
+}
+.s6_text{
+    margin-left: 65%;
+    margin-top: -44%;
+}
+.ultabig{
+    font-size: 270px;
+    color: #ffffff;
+    font-family: "PlayfairDisplay-Black";
+    margin-left: 15%;
+}
+.ultabigitalic{
+    font-size: 270px;
+    color: #ffffff;
+    font-family: "PlayfairDisplay-BlackItalic";
+    margin-left: 50%;
+    margin-top: -15.9%;
+}
+/* седьмой экран */
+.screen7{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s7_stars.svg");
+}
+.s7_text{
+    margin-top: -41%;
+    margin-left: 18%;
+}
+.ultabig2{
+    font-size: 270px;
+    color: #ffffff;
+    font-family: "PlayfairDisplay-Black";
+    margin-left: 20%;
+    margin-top: 9%;
+}
+
+/* восьмой экран */
+.screen8{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    background-image: url("../img/s8_stars.svg");
+}
+
+/* девятый экран */
+.screen9{
+    position: relative;
+    width: 1440px;
+    height: 765px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s9_stars.svg");
+}
+.s9_image{
+    margin-top: 14%;
+}
+/* десятый экран */
+.screen10{
+    position: relative;
+    width: 1440px;
+    height: 765px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s10_picture.png");
 }
