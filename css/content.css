@@ -302,25 +302,55 @@ h3{
     margin-top: 10.5%;
     margin-left: 22.4%;
 }
+.n2:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+    font-family: "PlayfairDisplay-Medium";
+}
 .n3{
     position: relative;
     margin-top: 10.5%;
     margin-left: 22.4%;
+}
+.n3:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+    font-family: "PlayfairDisplay-Semibold";
 }
 .n4{
     position: relative;
     margin-top: 10.5%;
     margin-left: 22.4%;
 }
+.n4:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+    font-family: "PlayfairDisplay-Bold";
+}
 .n5{
     position: relative;
     margin-top: 10.5%;
     margin-left: 22.4%;
 }
+.n5:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+    font-family: "PlayfairDisplay-Extrabold";
+}
 .n6{
     position: relative;
     margin-top: 10.5%;
     margin-left: 22.4%;
+}
+.n6:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 22.4%;
+    font-family: "PlayfairDisplay-Black";
 }
 
 .t1{
@@ -328,30 +358,67 @@ h3{
     margin-top: -82.5%;
     margin-left: 70.6%;
 }
+.t1:hover{
+    position: relative;
+    margin-top: -82.5%;
+    margin-left: 70.6%;
+    font-family: "PlayfairDisplay-Italic";
+    
+}
 .t2{
     position: relative;
     margin-top: 10.5%;
     margin-left: 70.6%;
+}
+.t2:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+    font-family: "PlayfairDisplay-MediumItalic";
 }
 .t3{
     position: relative;
     margin-top: 10.5%;
     margin-left: 70.6%;
 }
+.t3:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+    font-family: "PlayfairDisplay-SemiboldItalic";
+}
 .t4{
     position: relative;
     margin-top: 10.5%;
     margin-left: 70.6%;
+}
+.t4:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+    font-family: "PlayfairDisplay-BoldItalic";
 }
 .t5{
     position: relative;
     margin-top: 10.5%;
     margin-left: 70.6%;
 }
+.t5:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+    font-family: "PlayfairDisplay-ExtraboldItalic";
+}
 .t6{
     position: relative;
     margin-top: 10.5%;
     margin-left: 70.6%;
+}
+.t6:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 70.6%;
+    font-family: "PlayfairDisplay-BlackItalic";
 }
 
 .e1{
@@ -359,30 +426,66 @@ h3{
     margin-top: -82.5%;
     margin-left: 87%;
 }
+.e1:hover{
+    position: relative;
+    margin-top: -82.5%;
+    margin-left: 87%;
+    font-family: "PlayfairDisplay-Italic";
+}
 .e2{
     position: relative;
     margin-top: 10.5%;
     margin-left: 87%;
+}
+.e2:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+    font-family: "PlayfairDisplay-MediumItalic";
 }
 .e3{
     position: relative;
     margin-top: 10.5%;
     margin-left: 87%;
 }
+.e3:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+    font-family: "PlayfairDisplay-SemiboldItalic";
+}
 .e4{
     position: relative;
     margin-top: 10.5%;
     margin-left: 87%;
+}
+.e4:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+    font-family: "PlayfairDisplay-BoldItalic";
 }
 .e5{
     position: relative;
     margin-top: 10.5%;
     margin-left: 87%;
 }
+.e5:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+    font-family: "PlayfairDisplay-ExtraboldItalic";
+}
 .e6{
     position: relative;
     margin-top: 10.5%;
     margin-left: 87%;
+}
+.e6:hover{
+    position: relative;
+    margin-top: 10.5%;
+    margin-left: 87%;
+    font-family: "PlayfairDisplay-BlackItalic";
 }
 
 .aa1{
